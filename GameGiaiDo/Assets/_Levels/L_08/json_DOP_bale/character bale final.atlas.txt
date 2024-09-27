@@ -1,0 +1,104 @@
+
+character bale final.png
+size: 1732,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Curves 2
+  rotate: true
+  xy: 2, 2
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+Ellipse 4
+  rotate: false
+  xy: 1614, 376
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Ellipse 4 copy
+  rotate: false
+  xy: 1614, 376
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Ellipse 5
+  rotate: true
+  xy: 1614, 390
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Group 6
+  rotate: false
+  xy: 1304, 329
+  size: 215, 413
+  orig: 215, 413
+  offset: 0, 0
+  index: -1
+HueSaturation 4
+  rotate: false
+  xy: 1304, 744
+  size: 287, 295
+  orig: 287, 295
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 1521, 340
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+Shape 1 copy
+  rotate: false
+  xy: 1580, 420
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Shape 49
+  rotate: true
+  xy: 1304, 178
+  size: 149, 424
+  orig: 149, 424
+  offset: 0, 0
+  index: -1
+Shape 51
+  rotate: true
+  xy: 1304, 15
+  size: 161, 414
+  orig: 161, 414
+  offset: 0, 0
+  index: -1
+Shape 54 copy
+  rotate: true
+  xy: 1646, 375
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+giay1
+  rotate: false
+  xy: 1521, 411
+  size: 57, 132
+  orig: 57, 132
+  offset: 0, 0
+  index: -1
+giay2
+  rotate: true
+  xy: 1580, 442
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+underwear
+  rotate: false
+  xy: 1521, 545
+  size: 130, 197
+  orig: 130, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+LV 33.png
+size: 2028,1556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backgound
+  rotate: false
+  xy: 2, 255
+  size: 1037, 1299
+  orig: 1037, 1299
+  offset: 0, 0
+  index: -1
+Character 2
+  rotate: false
+  xy: 1041, 925
+  size: 727, 629
+  orig: 727, 629
+  offset: 0, 0
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 1964, 1077
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Ellipse 1 - Copy
+  rotate: false
+  xy: 1964, 1077
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy
+  rotate: false
+  xy: 1845, 455
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy - Copy
+  rotate: false
+  xy: 1845, 455
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1845, 469
+  size: 147, 94
+  orig: 147, 94
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 1770, 1092
+  size: 462, 256
+  orig: 462, 256
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 2
+  rotate: false
+  xy: 1770, 926
+  size: 192, 164
+  orig: 192, 164
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 3
+  rotate: true
+  xy: 1958, 602
+  size: 322, 60
+  orig: 322, 60
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 4
+  rotate: true
+  xy: 1958, 602
+  size: 322, 60
+  orig: 322, 60
+  offset: 0, 0
+  index: -1
+Vector Smart Object_0
+  rotate: false
+  xy: 1041, 14
+  size: 843, 424
+  orig: 843, 424
+  offset: 0, 0
+  index: -1
+Vector Smart Object_1
+  rotate: false
+  xy: 796, 90
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+Vector Smart Object_10
+  rotate: false
+  xy: 2, 22
+  size: 127, 29
+  orig: 127, 29
+  offset: 0, 0
+  index: -1
+Vector Smart Object_11
+  rotate: true
+  xy: 1041, 440
+  size: 483, 802
+  orig: 483, 802
+  offset: 0, 0
+  index: -1
+Vector Smart Object_2
+  rotate: true
+  xy: 1845, 618
+  size: 306, 111
+  orig: 306, 111
+  offset: 0, 0
+  index: -1
+Vector Smart Object_3
+  rotate: false
+  xy: 929, 126
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+Vector Smart Object_4
+  rotate: false
+  xy: 1941, 526
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Vector Smart Object_5
+  rotate: false
+  xy: 796, 222
+  size: 241, 31
+  orig: 241, 31
+  offset: 0, 0
+  index: -1
+Vector Smart Object_6
+  rotate: false
+  xy: 2, 53
+  size: 779, 45
+  orig: 779, 45
+  offset: 0, 0
+  index: -1
+Vector Smart Object_8
+  rotate: false
+  xy: 2, 187
+  size: 792, 66
+  orig: 792, 66
+  offset: 0, 0
+  index: -1
+Vector Smart Object_9
+  rotate: false
+  xy: 2, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 100
+  size: 758, 85
+  orig: 758, 85
+  offset: 0, 0
+  index: -1

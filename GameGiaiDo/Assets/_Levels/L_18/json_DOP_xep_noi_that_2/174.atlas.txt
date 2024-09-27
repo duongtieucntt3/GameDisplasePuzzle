@@ -1,0 +1,62 @@
+
+174.png
+size: 1664,1356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 4 copy 2
+  rotate: false
+  xy: 980, 21
+  size: 216, 291
+  orig: 216, 291
+  offset: 0, 0
+  index: -1
+Layer 671
+  rotate: true
+  xy: 2, 314
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+Layer 672
+  rotate: true
+  xy: 400, 91
+  size: 221, 258
+  orig: 221, 258
+  offset: 0, 0
+  index: -1
+Layer 673 copy 2
+  rotate: true
+  xy: 1304, 436
+  size: 436, 356
+  orig: 436, 356
+  offset: 0, 0
+  index: -1
+Layer 674
+  rotate: true
+  xy: 2, 2
+  size: 310, 396
+  orig: 310, 396
+  offset: 0, 0
+  index: -1
+Layer 675
+  rotate: true
+  xy: 1304, 874
+  size: 477, 356
+  orig: 477, 356
+  offset: 0, 0
+  index: -1
+Layer 676
+  rotate: false
+  xy: 1304, 38
+  size: 333, 396
+  orig: 333, 396
+  offset: 0, 0
+  index: -1
+Layer 677
+  rotate: true
+  xy: 660, 95
+  size: 217, 318
+  orig: 217, 318
+  offset: 0, 0
+  index: -1

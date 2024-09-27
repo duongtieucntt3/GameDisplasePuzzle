@@ -1,0 +1,90 @@
+{
+"skeleton": {
+	"hash": "7DLOel1yGgrGLGPTakTOZOorpvU",
+	"spine": "3.8.99",
+	"x": -518,
+	"y": -649.5,
+	"width": 1037,
+	"height": 1300,
+	"images": "./images/",
+	"audio": "D:/DOP3/PSD/LV161_xếp nội thất 2"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -4, "y": -629.37 }
+],
+"slots": [
+	{ "name": "BG", "bone": "root", "attachment": "Layer 671" },
+	{ "name": "Layer 672", "bone": "bone", "attachment": "Layer 672" },
+	{ "name": "Layer 675", "bone": "bone", "attachment": "Layer 675" },
+	{ "name": "Layer 676", "bone": "bone", "attachment": "Layer 676" },
+	{ "name": "Layer 677", "bone": "bone", "attachment": "Layer 677" },
+	{ "name": "Layer 674", "bone": "bone", "attachment": "Layer 674" },
+	{ "name": "Layer 673 copy 2", "bone": "bone", "attachment": "Layer 673 copy 2" },
+	{ "name": "Group 4 copy 2", "bone": "bone", "attachment": "Group 4 copy 2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BG": {
+				"Layer 671": { "x": 0.5, "y": 0.5, "width": 1037, "height": 1300 }
+			},
+			"Layer 672": {
+				"Layer 672": { "x": 65.97, "y": 602.27, "width": 221, "height": 258 }
+			},
+			"Layer 675": {
+				"Layer 675": { "x": -177.03, "y": 452.27, "width": 477, "height": 356 }
+			},
+			"Layer 676": {
+				"Layer 676": { "x": 286.97, "y": 481.27, "width": 333, "height": 396 }
+			},
+			"Layer 677": {
+				"Layer 677": { "x": 65.97, "y": 845.27, "width": 217, "height": 318 }
+			}
+		}
+	},
+	{
+		"name": "all",
+		"attachments": {
+			"Group 4 copy 2": {
+				"Group 4 copy 2": { "x": 65.87, "y": 856.17, "width": 216, "height": 291 }
+			},
+			"Layer 673 copy 2": {
+				"Layer 673 copy 2": { "x": -197.53, "y": 452.27, "width": 436, "height": 356 }
+			},
+			"Layer 674": {
+				"Layer 674": { "x": 275.49, "y": 484.3, "width": 310, "height": 396 }
+			}
+		}
+	},
+	{
+		"name": "banghe",
+		"attachments": {
+			"Layer 674": {
+				"Layer 674": { "x": 275.49, "y": 484.3, "width": 310, "height": 396 }
+			}
+		}
+	},
+	{
+		"name": "giuong",
+		"attachments": {
+			"Layer 673 copy 2": {
+				"Layer 673 copy 2": { "x": -197.53, "y": 452.27, "width": 436, "height": 356 }
+			}
+		}
+	},
+	{ "name": "normal" },
+	{
+		"name": "tu_sach",
+		"attachments": {
+			"Group 4 copy 2": {
+				"Group 4 copy 2": { "x": 65.87, "y": 856.17, "width": 216, "height": 291 }
+			}
+		}
+	}
+],
+"animations": {
+	"action_1": {}
+}
+}

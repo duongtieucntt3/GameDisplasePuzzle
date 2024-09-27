@@ -1,0 +1,83 @@
+
+203.png
+size: 1880,1432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: true
+  xy: 2, 13
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 1041, 586
+  size: 344, 267
+  orig: 344, 267
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 128
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 1588, 571
+  size: 857, 282
+  orig: 857, 282
+  offset: 0, 0
+  index: -1
+chan bun trc 2
+  rotate: true
+  xy: 1310, 588
+  size: 342, 266
+  orig: 342, 266
+  offset: 0, 0
+  index: -1
+circle 2
+  rotate: false
+  xy: 136, 37
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+dau xe
+  rotate: false
+  xy: 1041, 932
+  size: 545, 496
+  orig: 545, 496
+  offset: 0, 0
+  index: -1
+light copy 2
+  rotate: true
+  xy: 1709, 23
+  size: 170, 164
+  orig: 170, 164
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 1454, 195
+  size: 374, 424
+  orig: 374, 424
+  offset: 0, 0
+  index: -1
+wheel 2
+  rotate: true
+  xy: 1454, 2
+  size: 191, 253
+  orig: 191, 253
+  offset: 0, 0
+  index: -1
+yen xe
+  rotate: true
+  xy: 1041, 20
+  size: 549, 411
+  orig: 549, 411
+  offset: 0, 0
+  index: -1

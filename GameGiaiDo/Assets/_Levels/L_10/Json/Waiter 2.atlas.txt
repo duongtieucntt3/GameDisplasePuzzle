@@ -1,0 +1,76 @@
+
+Waiter 2.png
+size: 1600,1544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 681, 89
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 836, 90
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+Ellipse 7 copy
+  rotate: false
+  xy: 2, 17
+  size: 102, 20
+  orig: 102, 20
+  offset: 0, 0
+  index: -1
+Group 8 copy
+  rotate: false
+  xy: 2, 241
+  size: 1033, 1300
+  orig: 1033, 1300
+  offset: 0, 0
+  index: -1
+Layer 23 copy
+  rotate: true
+  xy: 363, 2
+  size: 237, 316
+  orig: 237, 316
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1037, 405
+  size: 561, 1136
+  orig: 561, 1136
+  offset: 0, 0
+  index: -1
+shadow tide
+  rotate: false
+  xy: 681, 24
+  size: 107, 63
+  orig: 107, 63
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 1037, 50
+  size: 353, 483
+  orig: 353, 483
+  offset: 0, 0
+  index: -1
+tide copy
+  rotate: true
+  xy: 1522, 297
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+tray
+  rotate: false
+  xy: 2, 39
+  size: 359, 200
+  orig: 359, 200
+  offset: 0, 0
+  index: -1

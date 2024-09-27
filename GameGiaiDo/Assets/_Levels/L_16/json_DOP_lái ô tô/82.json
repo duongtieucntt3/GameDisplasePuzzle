@@ -1,0 +1,115 @@
+{
+"skeleton": {
+	"hash": "eW5B57DeT7XKqrmxsBREAC6L+1s",
+	"spine": "3.8.99",
+	"x": -518.5,
+	"y": -649.5,
+	"width": 1037,
+	"height": 1300,
+	"images": "./images/",
+	"audio": "D:/DOP3/PSD/LV93_lái ô tô"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 14.24, "y": -614.91 },
+	{ "name": "Layer 79", "parent": "bone", "x": -6.64, "y": 226.92 },
+	{ "name": "mui ten co strock", "parent": "bone", "x": -17.83, "y": 730.4 },
+	{ "name": "Layer 68 copy 6", "parent": "bone", "x": 250.34, "y": 958.93 }
+],
+"slots": [
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "BG", "bone": "root", "attachment": "Rounded Rectangle 1 copy 2" },
+	{ "name": "mui ten co strock", "bone": "mui ten co strock", "attachment": "mui ten co strock" },
+	{ "name": "Layer 79", "bone": "Layer 79", "attachment": "Layer 79" },
+	{ "name": "Layer 68 copy 6", "bone": "Layer 68 copy 6", "attachment": "Layer 68 copy 6" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BG": {
+				"Rounded Rectangle 1 copy 2": { "y": 0.5, "width": 1037, "height": 1300 }
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 15,
+					"vertices": [ -500.84, 174.55, -497.06, 233.46, -499.5, 284.46, -507.04, 322.71, -513.72, 353.25, -517.12, 386.84, -515.28, 443.12, -506.64, 499.91, -488.37, 551.1, -463.09, 593.8, -428.52, 624.22, -412.82, 680.4, 565.22, 690.84, 523.9, -788.82, -666.67, -772.71 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	},
+	{
+		"name": "all",
+		"attachments": {
+			"Layer 68 copy 6": {
+				"Layer 68 copy 6": { "x": 8.05, "y": -6.1, "width": 258, "height": 237 }
+			},
+			"Layer 79": {
+				"Layer 79": { "x": 10.03, "y": 10.91, "width": 134, "height": 291 }
+			},
+			"mui ten co strock": {
+				"mui ten co strock": { "x": -57.28, "y": -88.46, "width": 187, "height": 296 }
+			}
+		}
+	},
+	{
+		"name": "barie",
+		"attachments": {
+			"Layer 68 copy 6": {
+				"Layer 68 copy 6": { "x": 8.05, "y": -6.1, "width": 258, "height": 237 }
+			}
+		}
+	},
+	{
+		"name": "mui_ten",
+		"attachments": {
+			"mui ten co strock": {
+				"mui ten co strock": { "x": -57.28, "y": -48.07, "width": 187, "height": 296 }
+			}
+		}
+	},
+	{ "name": "normal" },
+	{
+		"name": "oto",
+		"attachments": {
+			"Layer 79": {
+				"Layer 79": { "x": 10.03, "y": 10.91, "width": 134, "height": 291 }
+			}
+		}
+	}
+],
+"animations": {
+	"action_1": {},
+	"action_2": {
+		"bones": {
+			"Layer 79": {
+				"rotate": [
+					{ "time": 0.5 },
+					{ "time": 0.8333, "angle": 24.7 },
+					{ "time": 1, "angle": 41.46 },
+					{ "time": 1.3333, "angle": 58.47 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.6667, "y": 403.13 },
+					{ "time": 1, "x": -63.81, "y": 528.37 },
+					{ "time": 1.3333, "x": -322.38, "y": 744.7 },
+					{ "time": 1.6667, "x": -609.93, "y": 905.31 }
+				]
+			}
+		}
+	},
+	"action_3": {
+		"slots": {
+			"Layer 79": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

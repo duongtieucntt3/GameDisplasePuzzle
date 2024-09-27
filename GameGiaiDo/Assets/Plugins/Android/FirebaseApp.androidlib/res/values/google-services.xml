@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">297587070820</string>
+  <string name="google_storage_bucket" translatable="false">fir-analytics-ee824.appspot.com</string>
+  <string name="project_id" translatable="false">fir-analytics-ee824</string>
+  <string name="google_api_key" translatable="false">AIzaSyDmfoULqIk-NAWzDVdxL4AMnpMe_aUkhSM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmfoULqIk-NAWzDVdxL4AMnpMe_aUkhSM</string>
+  <string name="google_app_id" translatable="false">1:297587070820:android:19641ddc0f6409b084cc71</string>
+</resources>

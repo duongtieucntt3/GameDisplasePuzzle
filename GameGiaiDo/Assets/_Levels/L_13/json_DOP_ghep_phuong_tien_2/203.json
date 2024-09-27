@@ -1,0 +1,226 @@
+{
+"skeleton": {
+	"hash": "yabqv8qIQE4mJhidDsQpvC0Yh+8",
+	"spine": "3.8.99",
+	"x": -523.32,
+	"y": -652.98,
+	"width": 1037,
+	"height": 1300,
+	"images": "./images/",
+	"audio": "D:/DOP3/PSD/LV192_ghép phương tiện 2"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 2.94, "y": -617.1 },
+	{ "name": "yen xe", "parent": "bone", "rotation": -0.43, "x": -335.76, "y": 465.99, "color": "ff0000ff" },
+	{ "name": "wheel 2", "parent": "yen xe", "x": 2.64, "y": -6.49 },
+	{ "name": "light copy 2", "parent": "yen xe", "x": 419.8, "y": 288.69 },
+	{ "name": "wheel", "parent": "yen xe", "x": 533.18, "y": -75.45 },
+	{ "name": "Group 1", "parent": "yen xe", "x": -56.95, "y": 85.51 },
+	{ "name": "chan bun trc 2", "parent": "yen xe", "x": 461.37, "y": 115.21 },
+	{ "name": "dau xe", "parent": "yen xe", "x": 312.02, "y": 292.37 },
+	{ "name": "Layer 7", "parent": "bone", "rotation": -0.43, "x": -63.8, "y": 300.74, "color": "ff0000ff" }
+],
+"slots": [
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "Layer 6", "bone": "bone", "attachment": "Layer 6" },
+	{ "name": "Layer 7", "bone": "Layer 7", "attachment": "Layer 7" },
+	{ "name": "Group 1", "bone": "Group 1", "attachment": "Group 1" },
+	{ "name": "wheel 2", "bone": "wheel 2", "attachment": "wheel 2" },
+	{ "name": "yen xe", "bone": "yen xe", "attachment": "yen xe" },
+	{ "name": "dau xe", "bone": "dau xe", "attachment": "dau xe" },
+	{ "name": "circle 2", "bone": "chan bun trc 2", "attachment": "circle 2" },
+	{ "name": "chan bun trc 2", "bone": "chan bun trc 2", "attachment": "chan bun trc 2" },
+	{ "name": "wheel", "bone": "wheel", "attachment": "wheel" },
+	{ "name": "Layer 5", "bone": "chan bun trc 2", "attachment": "Layer 5" },
+	{ "name": "light copy 2", "bone": "light copy 2", "attachment": "light copy 2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Group 1": {
+				"Group 1": { "x": 23.96, "y": -30.87, "width": 113, "height": 132 }
+			},
+			"Layer 5": {
+				"Layer 5": { "x": 78.14, "y": -97.08, "width": 344, "height": 267 }
+			},
+			"Layer 6": {
+				"Layer 6": { "x": -7.75, "y": 614.12, "width": 1037, "height": 1300 }
+			},
+			"Layer 7": {
+				"Layer 7": { "x": 65.29, "y": -31.62, "rotation": 0.43, "width": 857, "height": 282 }
+			},
+			"chan bun trc 2": {
+				"chan bun trc 2": { "x": 76.14, "y": -97.58, "width": 342, "height": 266 }
+			},
+			"circle 2": {
+				"circle 2": { "x": 122.92, "y": -160.96, "rotation": 0.43, "width": 70, "height": 89 }
+			},
+			"dau xe": {
+				"dau xe": { "x": 15.99, "y": -134.74, "width": 545, "height": 496 }
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 16,
+					"vertices": [ 403.03, -620.25, 447.9, -587.56, 484.44, -538.82, 505, -484.6, 505.17, -443.99, 496.54, -355.92, 477.16, -240.67, 471.27, -139.34, 475.43, -18.19, 499.42, 129.32, 512.53, 238.49, 516.01, 310.51, 482.98, 752.7, -656.48, 733.22, -616.02, -723.49, 307.91, -777.44 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"yen xe": {
+				"yen xe": { "x": 175.01, "y": 80.13, "width": 549, "height": 411 }
+			}
+		}
+	},
+	{
+		"name": "all",
+		"attachments": {
+			"light copy 2": {
+				"light copy 2": { "x": -10.15, "y": -4.13, "width": 170, "height": 164 }
+			},
+			"wheel": {
+				"wheel": { "x": 34.33, "y": -2.92, "width": 374, "height": 424 }
+			},
+			"wheel 2": {
+				"wheel 2": { "x": 24.37, "y": 3.62, "width": 191, "height": 253 }
+			}
+		}
+	},
+	{
+		"name": "banh_sau",
+		"attachments": {
+			"wheel 2": {
+				"wheel 2": { "x": 24.37, "y": 3.62, "width": 191, "height": 253 }
+			}
+		}
+	},
+	{
+		"name": "banh_truoc",
+		"attachments": {
+			"wheel": {
+				"wheel": { "x": 34.33, "y": -2.92, "width": 374, "height": 424 }
+			}
+		}
+	},
+	{
+		"name": "den",
+		"attachments": {
+			"light copy 2": {
+				"light copy 2": { "x": -10.15, "y": -4.13, "width": 170, "height": 164 }
+			}
+		}
+	},
+	{ "name": "normal" }
+],
+"animations": {
+	"action_1": {
+		"bones": {
+			"Layer 7": {
+				"translate": [
+					{ "x": -3.55 }
+				]
+			}
+		}
+	},
+	"action_2": {
+		"bones": {
+			"yen xe": {
+				"rotate": [
+					{ "time": 0.6 },
+					{ "time": 0.6667, "angle": 27.69 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.0667, "y": -12.31 },
+					{ "time": 0.1333 },
+					{ "time": 0.2, "y": -12.31 },
+					{ "time": 0.2667 },
+					{ "time": 0.3333, "y": -12.31 },
+					{ "time": 0.4 },
+					{ "time": 0.4667, "y": -12.31 },
+					{ "time": 0.5333 },
+					{ "time": 0.6, "y": -12.31 },
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 1017.74, "y": -19.57 }
+				]
+			},
+			"Layer 7": {
+				"translate": [
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 946.88, "y": -352.47 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.0667, "x": 1.073, "y": 1.073 },
+					{ "time": 0.1333 },
+					{ "time": 0.2, "x": 1.073, "y": 1.073 },
+					{ "time": 0.2667 },
+					{ "time": 0.3333, "x": 1.073, "y": 1.073 },
+					{ "time": 0.4 },
+					{ "time": 0.4667, "x": 1.073, "y": 1.073 },
+					{ "time": 0.5333 },
+					{ "time": 0.6, "x": 1.073, "y": 1.073 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"action_3": {
+		"slots": {
+			"Group 1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Layer 7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chan bun trc 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"circle 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dau xe": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"light copy 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wheel": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wheel 2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yen xe": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,139 @@
+
+LV_19.png
+size: 1880,1596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Iris_L
+  rotate: false
+  xy: 1818, 217
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Nail
+  rotate: false
+  xy: 1041, 29
+  size: 151, 181
+  orig: 151, 181
+  offset: 0, 0
+  index: -1
+backgound
+  rotate: false
+  xy: 2, 294
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+body character
+  rotate: true
+  xy: 1443, 1032
+  size: 562, 434
+  orig: 562, 434
+  offset: 0, 0
+  index: -1
+cracked
+  rotate: false
+  xy: 1444, 307
+  size: 272, 460
+  orig: 272, 460
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: false
+  xy: 1379, 181
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 1041, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 838, 2
+  size: 201, 290
+  orig: 201, 290
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: true
+  xy: 1194, 76
+  size: 134, 183
+  orig: 134, 183
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 1813, 965
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+mouth_11
+  rotate: false
+  xy: 1813, 949
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 1194, 45
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: true
+  xy: 1818, 235
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+stone
+  rotate: true
+  xy: 1443, 769
+  size: 261, 368
+  orig: 261, 368
+  offset: 0, 0
+  index: -1
+stone statues
+  rotate: true
+  xy: 2, 8
+  size: 284, 834
+  orig: 284, 834
+  offset: 0, 0
+  index: -1
+stone2
+  rotate: true
+  xy: 1444, 51
+  size: 245, 372
+  orig: 245, 372
+  offset: 0, 0
+  index: -1
+stone3
+  rotate: false
+  xy: 1718, 298
+  size: 143, 469
+  orig: 143, 469
+  offset: 0, 0
+  index: -1
+stone4
+  rotate: false
+  xy: 1041, 212
+  size: 401, 492
+  orig: 401, 492
+  offset: 0, 0
+  index: -1
+stone_2
+  rotate: false
+  xy: 1041, 706
+  size: 400, 888
+  orig: 400, 888
+  offset: 0, 0
+  index: -1

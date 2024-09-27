@@ -1,0 +1,199 @@
+{
+"skeleton": {
+	"hash": "SdX2zIjGtiuJ46msZzSjBmu0VVE",
+	"spine": "3.8.99",
+	"x": -514.51,
+	"y": -641.25,
+	"width": 1037,
+	"height": 1300,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 21.52, "y": -625.26 },
+	{ "name": "Color Balance 1 copy 12", "parent": "bone", "x": -291.41, "y": 636.24 },
+	{ "name": "Layer 677", "parent": "bone", "x": -301.4, "y": 517.56 },
+	{ "name": "Color Balance 1 copy 11", "parent": "bone", "x": 236.84, "y": 334.38 },
+	{ "name": "Layer 678", "parent": "bone", "x": 244.58, "y": 286.7 },
+	{ "name": "Color Balance 1 copy 7", "parent": "bone", "x": -42.19, "y": 471.26, "color": "ff0000ff" },
+	{ "name": "Color Balance 1 copy 10", "parent": "bone", "x": -30.74, "y": 363.23, "color": "ff0000ff" },
+	{ "name": "Layer 676", "parent": "bone", "x": -38.22, "y": 503.55, "color": "000000ff" }
+],
+"slots": [
+	{ "name": "Rectangle 1", "bone": "bone", "attachment": "Rectangle 1" },
+	{ "name": "Color Balance 1 copy 8", "bone": "bone", "attachment": "Color Balance 1 copy 8" },
+	{ "name": "Color Balance 1 copy 7", "bone": "Color Balance 1 copy 7", "attachment": "Color Balance 1 copy 7" },
+	{ "name": "Layer 678", "bone": "Layer 678", "attachment": "Layer 678" },
+	{ "name": "Color Balance 1 copy 5", "bone": "bone", "attachment": "Color Balance 1 copy 5" },
+	{ "name": "Color Balance 1 copy 4", "bone": "bone", "attachment": "Color Balance 1 copy 4" },
+	{ "name": "Layer 7", "bone": "bone", "attachment": "Layer 7" },
+	{ "name": "Layer 8", "bone": "bone", "attachment": "Layer 8" },
+	{ "name": "Color Balance 1 copy 3", "bone": "bone", "attachment": "Color Balance 1 copy 3" },
+	{ "name": "Color Balance 1 copy 2", "bone": "bone", "attachment": "Color Balance 1 copy 2" },
+	{ "name": "Layer 677", "bone": "Layer 677", "attachment": "Layer 677" },
+	{ "name": "Color Balance 1 copy", "bone": "bone", "attachment": "Color Balance 1 copy" },
+	{ "name": "Color Balance 1 copy 10", "bone": "Color Balance 1 copy 10", "attachment": "Color Balance 1 copy 10" },
+	{ "name": "Color Balance 1 copy 11", "bone": "Color Balance 1 copy 11", "attachment": "Color Balance 1 copy 11" },
+	{ "name": "Color Balance 1 copy 12", "bone": "Color Balance 1 copy 12", "attachment": "Color Balance 1 copy 12" },
+	{ "name": "Layer 676", "bone": "Layer 676" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Color Balance 1 copy": {
+				"Color Balance 1 copy": { "x": -291.03, "y": 379.51, "width": 200, "height": 224 }
+			},
+			"Color Balance 1 copy 2": {
+				"Color Balance 1 copy 2": { "x": -137.03, "y": 640.51, "width": 72, "height": 192 }
+			},
+			"Color Balance 1 copy 3": {
+				"Color Balance 1 copy 3": { "x": -54.53, "y": 638.01, "width": 51, "height": 177 }
+			},
+			"Color Balance 1 copy 4": {
+				"Color Balance 1 copy 4": { "x": 229.47, "y": 659.51, "width": 243, "height": 216 }
+			},
+			"Color Balance 1 copy 5": {
+				"Color Balance 1 copy 5": { "x": 237.47, "y": 477.01, "width": 225, "height": 167 }
+			},
+			"Color Balance 1 copy 8": {
+				"Color Balance 1 copy 8": { "x": -3.53, "y": 602.51, "width": 923, "height": 1010 }
+			},
+			"Layer 7": {
+				"Layer 7": { "x": 43.47, "y": 593.01, "width": 107, "height": 85 }
+			},
+			"Layer 8": {
+				"Layer 8": { "x": 34.47, "y": 679.01, "width": 107, "height": 89 }
+			},
+			"Layer 676": {
+				"Layer 676": { "x": 9.58, "y": -11.46, "width": 390, "height": 380 }
+			},
+			"Rectangle 1": {
+				"Rectangle 1": { "x": -17.53, "y": 634.01, "width": 1037, "height": 1300 }
+			}
+		}
+	},
+	{
+		"name": "all",
+		"attachments": {
+			"Color Balance 1 copy 7": {
+				"Color Balance 1 copy 7": { "x": 11.52, "y": -69.26, "width": 330, "height": 253 }
+			},
+			"Color Balance 1 copy 10": {
+				"Color Balance 1 copy 10": { "x": -0.3, "y": 38.78, "width": 330, "height": 253 }
+			},
+			"Color Balance 1 copy 11": {
+				"Color Balance 1 copy 11": { "x": 8.44, "y": -9.37, "width": 210, "height": 111 }
+			},
+			"Color Balance 1 copy 12": {
+				"Color Balance 1 copy 12": { "x": 7.55, "y": -11.23, "width": 213, "height": 259 }
+			},
+			"Layer 677": {
+				"Layer 677": { "x": 17.87, "y": 107.45, "width": 213, "height": 259 }
+			},
+			"Layer 678": {
+				"Layer 678": { "x": 0.38, "y": 38.31, "width": 210, "height": 111 }
+			}
+		}
+	},
+	{
+		"name": "bikini",
+		"attachments": {
+			"Color Balance 1 copy 11": {
+				"Color Balance 1 copy 11": { "x": 8.44, "y": -9.37, "width": 210, "height": 111 }
+			}
+		}
+	},
+	{
+		"name": "bong_bikini",
+		"attachments": {
+			"Layer 678": {
+				"Layer 678": { "x": 0.38, "y": 38.31, "width": 210, "height": 111 }
+			}
+		}
+	},
+	{
+		"name": "bong_dep",
+		"attachments": {
+			"Layer 677": {
+				"Layer 677": { "x": 17.87, "y": 107.45, "width": 213, "height": 259 }
+			}
+		}
+	},
+	{
+		"name": "bong_quan",
+		"attachments": {
+			"Color Balance 1 copy 7": {
+				"Color Balance 1 copy 7": { "x": 11.52, "y": -69.26, "width": 330, "height": 253 }
+			}
+		}
+	},
+	{
+		"name": "dep",
+		"attachments": {
+			"Color Balance 1 copy 12": {
+				"Color Balance 1 copy 12": { "x": 7.55, "y": -11.23, "width": 213, "height": 259 }
+			}
+		}
+	},
+	{ "name": "normal" },
+	{
+		"name": "quan",
+		"attachments": {
+			"Color Balance 1 copy 10": {
+				"Color Balance 1 copy 10": { "x": -0.3, "y": 38.78, "width": 330, "height": 253 }
+			}
+		}
+	}
+],
+"events": {
+	"end": {}
+},
+"animations": {
+	"action_1": {},
+	"action_2": {
+		"slots": {
+			"Layer 676": {
+				"attachment": [
+					{ "time": 0.0333, "name": "Layer 676" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 676": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -90 },
+					{ "time": 0.3333, "angle": 180 },
+					{ "time": 0.5, "angle": 90 },
+					{ "time": 0.6667 }
+				],
+				"scale": [
+					{ "x": 0.009, "y": 0.009 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	},
+	"action_3": {
+		"slots": {
+			"Layer 676": {
+				"attachment": [
+					{ "name": "Layer 676" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 676": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0.38 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.3333, "name": "end", "float": 4 }
+		]
+	}
+}
+}

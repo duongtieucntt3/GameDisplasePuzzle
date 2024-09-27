@@ -1,0 +1,228 @@
+
+LV_15.png
+size: 1904,1976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_01
+  rotate: true
+  xy: 432, 1895
+  size: 76, 161
+  orig: 76, 161
+  offset: 0, 0
+  index: -1
+Arm_L_02
+  rotate: false
+  xy: 701, 1882
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+Arm_R_01
+  rotate: true
+  xy: 595, 1890
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 492, 976
+  size: 369, 439
+  orig: 369, 439
+  offset: 0, 0
+  index: -1
+Eyebrow1
+  rotate: false
+  xy: 78, 1950
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+Eyebrow_L
+  rotate: false
+  xy: 21, 1951
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Iris_L
+  rotate: false
+  xy: 2, 1954
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Iris_R
+  rotate: false
+  xy: 2, 1954
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Layer1
+  rotate: false
+  xy: 908, 1254
+  size: 836, 333
+  orig: 836, 333
+  offset: 0, 0
+  index: -1
+Layer2
+  rotate: false
+  xy: 2, 2
+  size: 1536, 896
+  orig: 1536, 896
+  offset: 0, 0
+  index: -1
+Leg_L_01
+  rotate: true
+  xy: 876, 1854
+  size: 117, 223
+  orig: 117, 223
+  offset: 0, 0
+  index: -1
+Leg_L_02
+  rotate: true
+  xy: 1323, 1815
+  size: 156, 310
+  orig: 156, 310
+  offset: 0, 0
+  index: -1
+Leg_R_01
+  rotate: true
+  xy: 1101, 1848
+  size: 123, 220
+  orig: 123, 220
+  offset: 0, 0
+  index: -1
+Leg_R_02
+  rotate: true
+  xy: 2, 1769
+  size: 167, 305
+  orig: 167, 305
+  offset: 0, 0
+  index: -1
+box money
+  rotate: false
+  xy: 1635, 1810
+  size: 267, 161
+  orig: 267, 161
+  offset: 0, 0
+  index: -1
+cash
+  rotate: false
+  xy: 284, 1418
+  size: 294, 255
+  orig: 294, 255
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 178, 1938
+  size: 141, 33
+  orig: 141, 33
+  offset: 0, 0
+  index: -1
+guitar_01
+  rotate: false
+  xy: 2, 1069
+  size: 488, 347
+  orig: 488, 347
+  offset: 0, 0
+  index: -1
+guitar_02
+  rotate: false
+  xy: 863, 900
+  size: 496, 352
+  orig: 496, 352
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 1532
+  size: 280, 235
+  orig: 280, 235
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 580, 1417
+  size: 256, 326
+  orig: 256, 326
+  offset: 0, 0
+  index: -1
+micro stand
+  rotate: true
+  xy: 1235, 1589
+  size: 219, 625
+  orig: 219, 625
+  offset: 0, 0
+  index: -1
+micro_2
+  rotate: true
+  xy: 309, 1675
+  size: 177, 688
+  orig: 177, 688
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 128, 1949
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 373, 1925
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+supirse
+  rotate: true
+  xy: 321, 1938
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+vest rock
+  rotate: false
+  xy: 999, 1617
+  size: 234, 229
+  orig: 234, 229
+  offset: 0, 0
+  index: -1
+
+LV_152.png
+size: 1568,1940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backgound_Street
+  rotate: true
+  xy: 2, 2
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+Layer3
+  rotate: false
+  xy: 2, 1041
+  size: 1563, 896
+  orig: 1563, 896
+  offset: 0, 0
+  index: -1
+
+LV_153.png
+size: 1044,1304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backgound_stage
+  rotate: false
+  xy: 2, 2
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1

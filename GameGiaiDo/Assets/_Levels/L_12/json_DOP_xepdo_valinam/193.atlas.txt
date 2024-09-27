@@ -1,0 +1,118 @@
+
+193.png
+size: 1968,1524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Color Balance 1 copy
+  rotate: true
+  xy: 995, 20
+  size: 200, 224
+  orig: 200, 224
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 10
+  rotate: false
+  xy: 1221, 2
+  size: 330, 253
+  orig: 330, 253
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 11
+  rotate: true
+  xy: 769, 10
+  size: 210, 111
+  orig: 210, 111
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 12
+  rotate: true
+  xy: 247, 7
+  size: 213, 259
+  orig: 213, 259
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 2
+  rotate: true
+  xy: 1731, 56
+  size: 72, 192
+  orig: 72, 192
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 3
+  rotate: true
+  xy: 1731, 3
+  size: 51, 177
+  orig: 51, 177
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 4
+  rotate: false
+  xy: 2, 4
+  size: 243, 216
+  orig: 243, 216
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 5
+  rotate: true
+  xy: 1373, 285
+  size: 225, 167
+  orig: 225, 167
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 7
+  rotate: false
+  xy: 1041, 257
+  size: 330, 253
+  orig: 330, 253
+  offset: 0, 0
+  index: -1
+Color Balance 1 copy 8
+  rotate: false
+  xy: 1041, 512
+  size: 923, 1010
+  orig: 923, 1010
+  offset: 0, 0
+  index: -1
+Layer 676
+  rotate: false
+  xy: 1553, 130
+  size: 390, 380
+  orig: 390, 380
+  offset: 0, 0
+  index: -1
+Layer 677
+  rotate: true
+  xy: 508, 7
+  size: 213, 259
+  orig: 213, 259
+  offset: 0, 0
+  index: -1
+Layer 678
+  rotate: true
+  xy: 882, 10
+  size: 210, 111
+  orig: 210, 111
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 1644, 21
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1553, 21
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 2, 222
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+ban do gui.png
+size: 1976,1228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 4
+  rotate: true
+  xy: 2, 189
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+Layer 460 copy
+  rotate: true
+  xy: 298, 4
+  size: 183, 206
+  orig: 183, 206
+  offset: 0, 0
+  index: -1
+Layer 526
+  rotate: false
+  xy: 908, 42
+  size: 175, 145
+  orig: 175, 145
+  offset: 0, 0
+  index: -1
+Layer 527
+  rotate: true
+  xy: 714, 42
+  size: 145, 192
+  orig: 145, 192
+  offset: 0, 0
+  index: -1
+bong
+  rotate: true
+  xy: 1304, 2
+  size: 553, 668
+  orig: 553, 668
+  offset: 0, 0
+  index: -1
+buiphan1
+  rotate: false
+  xy: 1860, 1114
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+buiphan2
+  rotate: true
+  xy: 1085, 51
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+choi main copy
+  rotate: true
+  xy: 2, 90
+  size: 97, 294
+  orig: 97, 294
+  offset: 0, 0
+  index: -1
+duyong main
+  rotate: false
+  xy: 1304, 557
+  size: 554, 669
+  orig: 554, 669
+  offset: 0, 0
+  index: -1
+giuowng vang bong
+  rotate: true
+  xy: 506, 4
+  size: 183, 206
+  orig: 183, 206
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 21
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1

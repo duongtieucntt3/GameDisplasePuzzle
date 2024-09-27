@@ -1,0 +1,111 @@
+
+LV 31.png
+size: 1924,1792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backgound
+  rotate: true
+  xy: 2, 730
+  size: 1057, 1300
+  orig: 1057, 1300
+  offset: 0, 0
+  index: -1
+Death
+  rotate: false
+  xy: 1304, 1034
+  size: 604, 753
+  orig: 604, 753
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 1645, 62
+  size: 267, 249
+  orig: 267, 249
+  offset: 0, 0
+  index: -1
+Vector Smart Object_1
+  rotate: false
+  xy: 1154, 2
+  size: 323, 86
+  orig: 323, 86
+  offset: 0, 0
+  index: -1
+black box
+  rotate: false
+  xy: 2, 341
+  size: 824, 387
+  orig: 824, 387
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 1304, 438
+  size: 594, 413
+  orig: 594, 413
+  offset: 0, 0
+  index: -1
+coffin
+  rotate: false
+  xy: 2, 43
+  size: 779, 296
+  orig: 779, 296
+  offset: 0, 0
+  index: -1
+coffin lid 1
+  rotate: true
+  xy: 1719, 331
+  size: 701, 203
+  orig: 701, 203
+  offset: 0, 0
+  index: -1
+coffin lid 2
+  rotate: true
+  xy: 828, 23
+  size: 705, 324
+  orig: 705, 324
+  offset: 0, 0
+  index: -1
+lia_sang
+  rotate: false
+  xy: 1550, 133
+  size: 93, 303
+  orig: 93, 303
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: true
+  xy: 783, 191
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: false
+  xy: 783, 247
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: true
+  xy: 783, 277
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+skeleton
+  rotate: false
+  xy: 1154, 90
+  size: 394, 346
+  orig: 394, 346
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 1645, 368
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1

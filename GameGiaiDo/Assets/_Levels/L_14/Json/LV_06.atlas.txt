@@ -1,0 +1,151 @@
+
+LV_06.png
+size: 1904,1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_06_item
+  rotate: true
+  xy: 886, 2
+  size: 633, 936
+  orig: 633, 936
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 863
+  size: 435, 912
+  orig: 435, 912
+  offset: 0, 0
+  index: -1
+Chair
+  rotate: true
+  xy: 2, 336
+  size: 525, 882
+  orig: 525, 882
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 448, 1357
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 574, 1352
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+Iris_L
+  rotate: false
+  xy: 2, 1421
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Iris_R
+  rotate: false
+  xy: 2, 1421
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 313, 1376
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+ghe
+  rotate: true
+  xy: 886, 1300
+  size: 138, 215
+  orig: 138, 215
+  offset: 0, 0
+  index: -1
+handGame/Hand_R
+  rotate: false
+  xy: 664, 1327
+  size: 220, 111
+  orig: 220, 111
+  offset: 0, 0
+  index: -1
+handGame/Mouth
+  rotate: false
+  xy: 22, 1401
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+headPhone/Mouth
+  rotate: false
+  xy: 249, 1387
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+headPhone/headPhone
+  rotate: true
+  xy: 1577, 1139
+  size: 299, 325
+  orig: 299, 325
+  offset: 0, 0
+  index: -1
+hint_1
+  rotate: true
+  xy: 1103, 1201
+  size: 237, 472
+  orig: 237, 472
+  offset: 0, 0
+  index: -1
+lamp/Mouth
+  rotate: false
+  xy: 62, 1401
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+lamp/eyebrow
+  rotate: false
+  xy: 117, 1400
+  size: 130, 38
+  orig: 130, 38
+  offset: 0, 0
+  index: -1
+lamp/lamp
+  rotate: true
+  xy: 916, 637
+  size: 500, 693
+  orig: 500, 693
+  offset: 0, 0
+  index: -1
+
+LV_062.png
+size: 1304,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_06
+  rotate: true
+  xy: 2, 2
+  size: 1037, 1300
+  orig: 1037, 1300
+  offset: 0, 0
+  index: -1
+
+LV_063.png
+size: 1084,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gradient Fill 1
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
